@@ -2,7 +2,7 @@
   "name": "space-to-br",
   "displayName": "space-to-br",
   "description": "Convert two spaces to <br>.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "kazuki235",
   "icon": "images/icon.png",
   "activationEvents": [
