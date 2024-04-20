@@ -1,9 +1,10 @@
 {
   "name": "space-to-br",
-  "displayName": "2SpaceToBr",
+  "displayName": "space-to-br",
   "description": "Convert two spaces to <br>.",
   "version": "0.0.1",
   "publisher": "kazuki235",
+  "icon": "../asset/icon",
   "engines": {
     "vscode": "^1.88.0"
   },
