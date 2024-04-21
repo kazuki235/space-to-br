@@ -1,7 +1,5 @@
 # space-to-br Extension for Visual Studio Code
 
-![gif](https://github.com/kazuki235/space-to-br/assets/74903972/b0d4224b-ad7d-42ea-b062-fa4ff4d5e183)
-
 <img src="https://github.com/kazuki235/space-to-br/assets/74903972/b0d4224b-ad7d-42ea-b062-fa4ff4d5e183">
 
 This extension automatically converts double spaces to `<br>` tags in Markdown files (.md), making line breaks explicit and easier to identify.
