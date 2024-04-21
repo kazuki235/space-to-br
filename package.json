@@ -4,7 +4,7 @@
   "description": "Convert two spaces to <br>.",
   "version": "1.0.1",
   "publisher": "kazuki235",
-  "icon": "images/icon.png",
+  "icon": "assets/icon.png",
   "activationEvents": [
     "onLanguage:markdown"
   ],
