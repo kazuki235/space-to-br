@@ -5,6 +5,10 @@
   "version": "1.0.2",
   "publisher": "kazuki235",
   "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kazuki235/space-to-br.git"
+  },
   "activationEvents": [
     "onLanguage:markdown"
   ],
